@@ -12,7 +12,7 @@ Training process (from paper):
 
 3rd stage: 10 epochs on RAF-DB
 
-4-6 stage: 10 epochs each but now with augmentations
+4th stage: 10 epochs each model on FER13, FER13+ and RAF-DB but now with augmentations + final 10 epochs each model
 
 
 <hr>
