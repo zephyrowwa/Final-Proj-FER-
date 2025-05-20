@@ -38,6 +38,6 @@ swin_tiny : https://huggingface.co/microsoft/swin-tiny-patch4-window7-224
 
 <hr>
 
-REPO for the webapp: zephyrowwa/ESC-w-ConvNeXt
+REPO for the webapp: https://github.com/zephyrowwa/ESC-w-ConvNeXt
 
 Streamlit webapp: https://escwconvnxt.streamlit.app/
